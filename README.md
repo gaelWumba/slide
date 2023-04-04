@@ -1,3 +1,24 @@
-<h1 align="center">SLIDE</h1>
 
-<p align="center">Création d'un chat en ligne avec React.js, Node.js (Express.js) et Socket.io. Les utilisateurs rejoignent un ou plusieurs des canaux disponibles, afin d’echanger des messages entre eux.</p>
+# SLIDE
+
+SLIDE is is a fully functional online chat
+### The users should be able to :
+- Log in with an username.
+- Join a group chat
+- Creat a private Chat
+
+
+### Frontend
+
+- React.js
+- Tailwind CSS
+
+
+### Backend
+- Node.js
+- Express.js
+- Socket.io
+
+
+## Things I learned will working on this project
+- Using websockets (socket.io)
